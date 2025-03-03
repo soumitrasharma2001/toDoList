@@ -3,14 +3,15 @@ The To-Do List Web Application helps users create, manage, and track tasks effic
 
 #Key Features
 
-User Authentication
+<b>User Authentication</b>
+
 -Users can register and log in to their accounts.
 
 -A secure login system is used to ensure personalized task management.
 
 -Session management will keep users logged in until they log out.
 
-Task Management
+<b>Task Management</b>
 
 -Users can create, edit, and delete tasks.
 
@@ -20,25 +21,25 @@ Task Management
 
 -Users can mark tasks as completed once done.
 
-Task Prioritization
+<b>Task Prioritization</b>
 
 -Users can set the priority of a task (Low, Medium, or High) while creating it.
 
 -Tasks can be sorted based on priority to highlight urgent ones.
 
-Due Date Management
+<b>Due Date Management</b>
 
 -Users can assign a due date to each task.
 
 -The system can notify users about upcoming or overdue tasks.
 
-User Friendly Interface
+<b>User Friendly Interface</b>
 
 -Simple and intuitive UI using HTML, CSS, JavaScript, and TailwindCSS.
 
 -Interactive dashboard displaying tasks in an organized manner.
 
-Tech Stack
+<b>Tech Stack</b>
 
 -Frontend: HTML, CSS, JavaScript (with TailwindCSS for styling)
 
@@ -48,7 +49,7 @@ Tech Stack
 
 -Authentication: Session-based login system
 
-Future Enhancements
+<b>Future Enhancements</b>
 
 -Implementing email notifications for due tasks.
 
