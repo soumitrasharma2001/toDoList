@@ -24,14 +24,12 @@ The To-Do List Web Application helps users create, manage, and track tasks effic
 
 <ul>
   <li>Users can set the priority of a task (Low, Medium, or High) while creating it.</li>
-  <li>Tasks can be sorted based on priority to highlight urgent ones.</li>
 </ul>
 
 <b>Due Date Management</b>
 
 <ul>
   <li>Users can assign a due date to each task.</li>
-  <li>The system can notify users about upcoming or overdue tasks.</li>
 </ul>
 
 
