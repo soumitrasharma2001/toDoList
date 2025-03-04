@@ -8,7 +8,6 @@ The To-Do List Web Application helps users create, manage, and track tasks effic
 <ul>
   <li>Users can register and log in to their accounts.</li>
   <li>A secure login system is used to ensure personalized task management.</li>
-  <li>Session management will keep users logged in until they log out.</li>
 </ul>
 
 <b>Task Management</b>
